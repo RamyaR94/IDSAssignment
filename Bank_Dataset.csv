@@ -252,7 +252,7 @@ ID,Age,Experience,Income,Gender,ZIP Code,Family,Education,Mortgage,Personal Loan
 251,41,17,78,Female,94025,4,1,78,0,0,0,1,0,single,no,services,yes,cellular,329
 252,35,11,25,Female,92614,2,2,0,0,0,0,0,0,married,no,technician,yes,cellular,473
 253,38,14,60,Female,94025,2,3,0,0,0,0,1,1,single,yes,blue-collar,no,cellular,-8019
-254,53,29,120,Female,92626,4,2,111,1,1,1,1,0,single,no,technician,no,cellular,226
+183,52,25,44,Female,93111,3,2,135,0,0,0,1,0,single,no,blue-collar,no,cellular,123
 255,55,29,99,Female,92121,2,1,264,0,0,0,1,1,married,no,admin.,yes,cellular,383
 256,26,1,55,Female,90089,3,3,113,0,0,0,0,1,divorced,no,admin.,no,cellular,1
 257,30,6,29,Female,94305,3,2,117,0,0,0,0,0,married,no,services,no,cellular,27
@@ -680,7 +680,7 @@ ID,Age,Experience,Income,Gender,ZIP Code,Family,Education,Mortgage,Personal Loan
 679,51,27,23,Male,96651,1,1,0,0,0,0,1,0,married,no,services,yes,cellular,-1
 680,34,10,22,Male,95670,1,3,85,0,0,0,0,0,married,no,blue-collar,no,cellular,97
 681,49,23,59,Male,95827,3,1,0,0,0,0,0,0,single,no,blue-collar,no,cellular,16
-682,29,2,33,Male,91711,1,2,160,0,0,0,0,0,single,no,technician,no,cellular,313
+682,45,20,201,Female,94025,4,1,0,0,0,0,1,1,married,no,management,no,cellular,26
 683,47,23,11,Male,94063,1,3,103,0,0,0,0,1,married,no,self-employed,no,cellular,5068
 684,46,21,204,Male,92780,2,1,0,0,0,0,1,0,married,no,admin.,no,telephone,859
 685,52,27,61,Male,92101,4,3,207,0,0,0,0,0,married,no,technician,no,cellular,0
@@ -2410,7 +2410,7 @@ ID,Age,Experience,Income,Gender,ZIP Code,Family,Education,Mortgage,Personal Loan
 2409,48,21,23,Female,94720,3,2,95,0,0,0,0,0,married,no,management,no,cellular,333
 2410,38,13,140,Female,90210,4,1,0,1,0,0,0,0,divorced,no,services,yes,cellular,797
 2411,41,15,75,Female,95010,1,3,0,0,0,0,1,0,married,yes,housemaid,yes,cellular,65
-2412,57,32,13,Female,94588,4,2,78,0,1,0,1,0,single,no,self-employed,yes,cellular,453
+2412,52,28,41,Male,94309,3,2,0,0,0,0,0,1,divorced,no,retired,yes,cellular,264
 2413,31,7,10,Female,92354,1,3,81,0,0,0,1,0,married,no,services,no,telephone,443
 2414,39,15,100,Female,94720,1,2,0,0,0,0,1,0,single,no,services,no,cellular,0
 2415,48,22,85,Female,94105,3,1,203,0,0,0,1,0,married,no,blue-collar,no,cellular,840
@@ -2460,7 +2460,7 @@ ID,Age,Experience,Income,Gender,ZIP Code,Family,Education,Mortgage,Personal Loan
 2459,25,1,28,Female,94596,1,3,0,0,0,0,1,0,divorced,no,services,yes,cellular,282
 2460,43,19,60,Female,94104,3,3,0,0,0,0,1,0,married,no,technician,yes,cellular,3530
 2461,54,29,23,Female,93955,1,2,0,0,0,0,0,0,married,no,management,yes,cellular,489
-2462,34,8,164,Female,94720,4,3,0,1,0,0,1,0,single,no,technician,no,cellular,603
+2414,39,15,100,Female,94720,1,2,0,0,0,0,1,0,single,no,services,no,cellular,0
 2463,54,30,39,Female,95211,2,1,0,0,0,0,0,1,divorced,no,technician,no,cellular,1803
 2464,42,17,19,Female,92115,2,3,85,0,0,0,1,1,married,no,management,yes,cellular,25
 2465,46,20,72,Female,93108,2,3,0,0,0,0,1,1,single,no,management,yes,cellular,171
@@ -5136,7 +5136,7 @@ ID,Age,Experience,Income,Gender,ZIP Code,Family,Education,Mortgage,Personal Loan
 5135,58,32,73,Female,92130,1,2,0,0,1,0,0,0,married,no,housemaid,yes,cellular,1109
 5136,37,13,84,Female,92121,4,1,118,0,0,0,1,0,divorced,no,technician,no,cellular,2340
 5137,39,15,78,Female,91301,3,1,0,0,0,0,1,0,married,no,technician,no,cellular,738
-5138,60,35,80,Female,92096,2,1,101,0,0,0,1,1,divorced,no,retired,no,cellular,-82
+5064,61,37,131,Female,94005,1,1,207,0,0,0,0,0,married,no,housemaid,no,cellular,0
 5139,31,5,115,Female,92646,1,2,251,0,0,0,1,0,single,no,services,no,cellular,0
 5140,34,8,82,Female,92182,2,1,0,0,1,0,1,0,married,no,housemaid,no,telephone,174
 5141,38,14,74,Female,92131,3,3,0,0,0,0,0,1,married,no,services,yes,cellular,949
@@ -9997,7 +9997,7 @@ ID,Age,Experience,Income,Gender,ZIP Code,Family,Education,Mortgage,Personal Loan
 9996,51,26,72,Male,92614,2,2,0,0,0,0,0,0,married,no,blue-collar,no,cellular,581
 9997,27,1,98,Male,94025,2,3,0,0,0,0,1,1,married,no,management,no,cellular,676
 9998,48,23,30,Male,92626,4,2,111,1,1,1,1,0,single,no,technician,no,cellular,9
-9999,32,6,78,Male,92121,2,1,264,0,0,0,1,1,married,no,technician,yes,cellular,1840
+9999,67,41,112,Male,91741,1,1,0,0,1,0,0,0,married,no,admin.,no,cellular,215
 10000,48,23,43,Male,90089,3,3,113,0,0,0,0,1,married,no,management,no,cellular,0
 10001,34,8,85,Female,94305,3,2,117,0,0,0,0,0,single,no,management,no,cellular,830
 10002,24,0,38,Female,92182,2,2,325,1,0,0,1,0,divorced,no,technician,no,cellular,237
